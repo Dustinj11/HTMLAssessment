@@ -1,1 +1,4 @@
-# HTML assessment 
+# HTML assessment
+
+This HTML project displays a webpage and goes through some of the basic abilities of what we can do with HTML. There was not much context to the words in the project but was more focused on how the project looked. HTML was quick to pick up and was not difficult to find HTML code online for anything you needed to do.
+  Using blockquote, scope, and setting the size of pictures used just came down to trial and error. After inputting code I would just go to the webpage and made sure it did what i needed it to do. In my program i set the hyperlinks up to go to the teams webpage when you click on it. I utilized radio buttons, checkboxes, and a class selection towards the end of the code for user input. I am excited to combine what we have learned in Java and what we are going to learn with more front end style coding coming up. I understand HTML is just scratching the surface and only setting up the skeleton of web pages that we will be building but this has got me excited to see what else we will be able to do. 
